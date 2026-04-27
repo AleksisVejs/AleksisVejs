@@ -4,16 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://your-live-site.com" target="_blank">
+  <a href="https://fraksis.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername/your-repo" target="_blank">
+  <a href="https://github.com/AleksisVejs/fraksis" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://your-image-link.com/preview.png" alt="Website Preview" width="900" />
 </p>
 
 ### ✨ Highlights
